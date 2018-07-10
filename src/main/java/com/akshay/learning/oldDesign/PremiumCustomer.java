@@ -1,6 +1,5 @@
-package com.akshay.learning;
+package com.akshay.learning.oldDesign;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class PremiumCustomer implements Customer {

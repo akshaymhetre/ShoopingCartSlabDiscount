@@ -1,11 +1,17 @@
 package com.akshay.learning;
 
-import org.junit.Test;
+import com.akshay.learning.oldDesign.Customer;
+import com.akshay.learning.oldDesign.DicountGeneratorService;
+import com.akshay.learning.oldDesign.RegularCutomer;
+import com.akshay.learning.oldDesign.Slab;
+import org.junit.jupiter.api.Test;
+
 
 import java.util.Arrays;
 import java.util.List;
 
-import static org.junit.Assert.*;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class DicountGeneratorServiceTest {
 

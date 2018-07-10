@@ -1,4 +1,4 @@
-package com.akshay.learning;
+package com.akshay.learning.oldDesign;
 
 public class Slab {
     private long start;
